@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WELCOME TO lenovo
+        <button type="submit">WELME TO lenovo
 </button>
         <div class="form-help">
           <div class="remember-me">
